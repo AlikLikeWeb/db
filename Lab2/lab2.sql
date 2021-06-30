@@ -3,5 +3,4 @@ create table finger (
 	fingerName VARCHAR(50),
 	fingerDesc VARCHAR(50),
 	fingerPrice FLOAT(50),
-	fingerImage VARCHAR(50)
 );
