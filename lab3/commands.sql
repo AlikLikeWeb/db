@@ -31,7 +31,7 @@ where size='S'
 --6
 --change name of client by email
 update clients 
-set full_name = 'Renamed User' where email = 'bortner1@slate.com'
+set full_name = 'Renamed User' where email = 'danslow0@wikimedia.org'
 
 --7
 --amount of clients who are have M or L size

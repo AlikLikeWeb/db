@@ -25,7 +25,7 @@ CREATE TABLE "progress" (
   "status" boolean
 );
 
-ALTER TABLE "clients" ADD FOREIGN KEY ("id") REFERENCES "jewelers" ("clients");
+ALTER TABLE "jewelers" ADD FOREIGN KEY ("clients") REFERENCES "clients" ("id");
 
 ALTER TABLE "jewelers" ADD FOREIGN KEY ("id") REFERENCES "profession" ("jeweler_id");
 
