@@ -1,0 +1,22 @@
+[
+    {
+        "id": "1",
+        "name": "Necklaces",
+        "jeweler_id": "1"
+    },
+    {
+        "id": "2",
+        "name": "Earrings",
+        "jeweler_id": "2"
+    },
+    {
+        "id": "3",
+        "name": "Rings",
+        "jeweler_id": "3"
+    },
+    {
+        "id": "4",
+        "name": "Bracelets",
+        "jeweler_id": "4"
+    }
+]
